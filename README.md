@@ -1,10 +1,10 @@
-# Web Starter
+# Typography Only for Crochet
 
-> Computers are dumb. Humans make them smart.
+>Crochet is a process of creating textiles using a hook to interlock loops of materials. 
 
-Starter (boilerplate) for all future projects.
+A web project to experiment with ONLY CSS typography.
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## CSS Concepts
+* Typoghraphy
+* Box Model
+* CSS Variables 
