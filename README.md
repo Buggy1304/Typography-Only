@@ -8,3 +8,6 @@ A web project to experiment with ONLY CSS typography.
 * Typoghraphy
 * Box Model
 * CSS Variables 
+
+## Sources
+Content from https://en.wikipedia.org/wiki/Crochet
